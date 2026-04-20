@@ -24,7 +24,7 @@ The dataset used in this project is sourced from Kaggle.
 
 ---
 
-<img width="975" height="306" alt="image" src="image.png" />
+<img alt="image" src="image.png" />
 
 
 
