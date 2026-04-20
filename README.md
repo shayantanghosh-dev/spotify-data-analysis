@@ -136,7 +136,7 @@ The dataset used in this project is sourced from Kaggle.
 
 ---
 ## Dashboard
-<img width="1594" height="699" alt="image" src="Dashboard.jpg" />
+<img alt="image" src="Dashboard.jpg" />
 
 
 
