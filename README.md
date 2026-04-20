@@ -63,7 +63,7 @@ The dataset used in this project is sourced from Kaggle.
 
 
 
-##Key Features of the Dashboard##
+## Key Features of the Dashboard
 
 - Comprehensive KPI section highlighting total users, total playlists, average age, average listening hours, average music suggestions, and average skips per day
 - Country-wise analysis of playlist creation to identify regional engagement patterns
