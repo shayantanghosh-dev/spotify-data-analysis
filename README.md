@@ -139,7 +139,7 @@ These questions guided the analysis and helped uncover meaningful patterns in us
 - Evaluating marketing performance, particularly advertisement effectiveness and user interaction
 - Optimizing subscription conversion through data-driven insights
 - Enabling customer segmentation based on behavioral patterns and user preferences
-* Delivering clear, interactive data visualization for informed decision-making and reporting
+- Delivering clear, interactive data visualization for informed decision-making and reporting
 
 These use cases demonstrate how data can be leveraged to drive strategic improvements across user experience, marketing, and business performance.
 
