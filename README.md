@@ -1,15 +1,11 @@
 # Spotify User Behavior Analysis
 
 ## Project Overview
-This project analyzes a synthetic dataset that simulates user behavior on a Spotify-like music streaming platform. The dataset contains 5000 user records reflecting user engagement, subscription behavior, and advertisement interaction.
+This project presents an in-depth analysis of a synthetic dataset designed to replicate user behavior on a Spotify-like music streaming platform, comprising 5,000 user records.
 
-The objective of this project is to derive meaningful insights related to:
-- User engagement patterns  
-- Subscription behavior and conversion trends  
-- User churn and inactivity  
-- Marketing effectiveness through advertisements  
+The primary objective of this analysis is to extract actionable insights across key areas, including user engagement patterns, subscription behavior and conversion dynamics, user churn and inactivity, and the effectiveness of advertisement strategies.
 
-This project focuses on building an interactive dashboard using Google Sheets to visualize and analyze user behavior.
+An interactive dashboard was developed using Google Sheets to facilitate structured exploration and visualization of the data. The dashboard enables clear interpretation of trends and supports data-driven decision-making by highlighting critical patterns in user behavior and platform performance.
 
 ---
 
