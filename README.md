@@ -69,15 +69,16 @@ The dataset used in this project is sourced from Kaggle.
 
 ## Key Features (Based on Dashboard)
 
-- KPI section displaying total users, average age, playlists, skips, inactivity, listening hours, and ratings  
-- Country-wise user distribution analysis  
+- KPI section displaying total users, total playlists, average age, average listening hours, average music suggestion and average skips per day
+- Country-wise playlists created analysis  
 - Device usage distribution visualization  
-- Ad interaction behavior analysis  
-- Ad conversion analysis across subscription types  
-- Active vs Inactive user comparison (Churn analysis)  
+- Average Skips per day in different Countries 
+- Inactivity behaviour in various countries analysis
+- Average Listening Hours for different age groups
+- Average Listening Hours for different music genre 
 - Genre popularity insights  
-- Playlist creation trends by country  
-- Interactive filters (country, subscription type, status, genre, device)
+- Most Liked Features  
+- Interactive filters (country, subscription status, age, genre, device, most liked feature)
 
 ---
 
@@ -95,9 +96,9 @@ The dataset used in this project is sourced from Kaggle.
 - A significant portion of users do not interact with ads  
 - Ad engagement shows a declining trend compared to non-interaction  
 
-### Ad Conversion Analysis
-- Among users who interact with ads, conversion to premium varies by subscription type  
-- Free users show potential for conversion but require better targeting  
+### Inactivity Analysis
+- Among users who go inactive, how long do they stay inactive for    
+- Either they are more than 3-months inactive or went inactive recently 
 
 ### Churn Analysis
 - Majority of users are active  
@@ -117,8 +118,8 @@ The dataset used in this project is sourced from Kaggle.
 
 - Which countries have the highest user engagement and playlist creation?  
 - What devices are most commonly used for music streaming?  
-- How effective are advertisements in driving user interaction?  
-- What percentage of users convert to premium after interacting with ads?  
+- Which age group has the most listening hours?  
+- What percentage of users go inactive and stay inactive for 3months?  
 - What is the current churn rate based on inactive users?  
 - Which genres are most popular among users?  
 - How does user behavior differ across subscription types?  
